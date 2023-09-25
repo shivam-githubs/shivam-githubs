@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I'm <a href="https:///www.linkedin.com/in/shivamtiwari10/" target="_blank">Jay Sohani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https:///www.linkedin.com/in/shivamtiwari10/" target="_blank">Shivam Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamtiwari10/)
